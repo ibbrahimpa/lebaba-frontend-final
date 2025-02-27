@@ -14,6 +14,7 @@
     "@stripe/react-stripe-js": "^2.8.0",
     "@stripe/stripe-js": "^4.4.0",
     "axios": "^1.7.7",
+    "caniuse-lite": "^1.0.30001701",
     "chart.js": "^4.4.4",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
