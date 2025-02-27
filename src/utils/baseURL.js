@@ -1,3 +1,3 @@
 export const getBaseUrl = () => {
-    return "https://lebaba-ecommerce-backend-app-eta.vercel.app";
+    return "https://lebaba-ecommerce-backend-app-delta.vercel.app";
 }
