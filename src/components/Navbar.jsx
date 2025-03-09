@@ -68,7 +68,7 @@ const Navbar = () => {
 
                 {/* logo */}
                 <div className='nav__logo'>
-                    <Link to="/">Mullah girl fasghion<span>.</span></Link>
+                    <Link to="/">Mullah Girl Fashion<span>.</span></Link>
                 </div>
 
                 {/* nav icons */}
